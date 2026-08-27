@@ -1,6 +1,6 @@
 <div align="center">       
 
-# ⚡ SQL ENGINEERING MASTER REPO
+# ⚡ SQL ENGINEERING MASTER REP
 ### **From Zero to Hero — Basic → Intermediate → Advanced SQL**
 
 <p>
