@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Track-SQL%20Engineering-7c3aed?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Actively%20Building-22c55e?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
-
+ 
 <p>
   <a href="#-roadmap"><img src="https://img.shields.io/badge/Explore-Roadmap-0f172a?style=for-the-badge" /></a>
   <a href="#-curriculum"><img src="https://img.shields.io/badge/View-Curriculum-1d4ed8?style=for-the-badge" /></a>
