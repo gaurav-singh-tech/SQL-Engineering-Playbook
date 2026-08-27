@@ -1,4 +1,4 @@
-<div align="center">    
+<div align="center">     
 
 # ⚡ SQL ENGINEERING MASTER REPO
 ### **From Zero to Hero — Basic → Intermediate → Advanced SQL**
