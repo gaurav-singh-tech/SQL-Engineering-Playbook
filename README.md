@@ -14,7 +14,7 @@
   <a href="#-curriculum"><img src="https://img.shields.io/badge/View-Curriculum-1d4ed8?style=for-the-badge" /></a>
   <a href="#-practice-zone"><img src="https://img.shields.io/badge/Solve-Practice-7c3aed?style=for-the-badge" /></a>
   <a href="#-how-to-use"><img src="https://img.shields.io/badge/Get-Started-16a34a?style=for-the-badge" /></a>
-</p>
+</p> 
 
 ---
 
