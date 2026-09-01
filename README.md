@@ -23,7 +23,7 @@
 🎯 **What you’ll find here:**  
 `Basics` • `Joins` • `Aggregations` • `Subqueries` • `Window Functions` • `CTEs` • `Indexing` • `Performance Tuning` • `Advanced SQL Projects`
 
-</div> ok
+</div> ok ok
 
 ---
 
